@@ -1,8 +1,8 @@
-- 👋 oii, eu sou a livia, aluna do mario covas.
-- 👀 Estou interessada em me conhecer meus,proprios gostos.
-- 🌱 Eu gosto de desenhar,ler e gosto de cozinhar.
-- 💞️ Eu sou muito linda.
-- 📫 ela-dela
+- oii, eu sou a livia, aluna do mario covas.
+- Estou interessada em me conhecer meus,proprios gostos.
+- Eu gosto de desenhar,ler e gosto de cozinhar.
+- Eu sou muito linda.
+- ela-dela
 
 
 <!---
